@@ -1,4 +1,4 @@
-# Open Data Hub Bootcamp 2026
+# Welcome to the Open Data Hub Bootcamp 2026
 
 The goal of this bootcamp is to foster our community around the Open Data Hub, to get to know each other, the technology, but also for you to just learn stuff and make friends. This is not a competition, so don't be afraid to make mistakes and try out new stuff. Our Open Data Hub team is there to help and support you.
 
@@ -20,26 +20,14 @@ The data we work with is geographic track data from South Tyrol and the surround
 
 ## How it works
 
-We divided the challenge into **4 steps**. Each step has its own folder with a `README.md` that describes the tasks. Work through each step at your own pace.
+The challenge is divided into **4 steps**, each building on the output of the previous one. Work through them at your own pace — the Open Data Hub team is around throughout the day, so don't hesitate to ask for help.
 
-After the time for each step ends, we will post a `SOLUTION.md` to the repository with a full walkthrough and working code examples — so even if you get stuck, you will always be able to follow along and continue to the next step.
+**Start here: [01-get-the-data](./01-get-the-data/README.md)**
 
-The Open Data Hub team is around throughout the day — don't hesitate to ask for help.
-
-| Step | Folder | What you will do |
-|------|--------|-----------------|
-| 1 | [01-get-the-data](./01-get-the-data/) | Explore the Content API, discover the data sources and tags, fetch and download SpatialData |
-| 2 | [02-enrich-the-data](./02-enrich-the-data/) | Filter the dataset, find nearby gastronomies, water refillment points and webcams, match them to tracks |
-| 3 | [03-visualize-the-data](./03-visualize-the-data/) | Render tracks and enriched POIs on an interactive map |
-| 4 | [04-elaborate-the-data](./04-elaborate-the-data/) | Build a simple routing engine on top of the spatial data |
+The README files for the remaining steps will become available as you progress through the challenge.
 
 ---
 
 ## Getting started
 
-Each step folder contains:
-- `README.md` — the task description and what to figure out
-- `SOLUTION.md` — the full solution, posted after each step's time is up
-- Source code examples in Python and JavaScript to get you started
-
-Start with [01-get-the-data](./01-get-the-data/README.md).
+Start with [01-get-the-data](./01-get-the-data/README.md) and follow the instructions there.
