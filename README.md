@@ -8,6 +8,15 @@ The goal of this bootcamp is to foster our community around the Open Data Hub, t
 
 This repository will guide you through a data processing challenge where you will learn to **get, filter, enrich, visualize, and elaborate SpatialData** from the [Open Data Hub](https://opendatahub.com) Content API.
 
+### Useful links
+
+| Resource | URL |
+|---|---|
+| Open Data Hub Discovery | [discovery.opendatahub.com/discovery](https://discovery.opendatahub.com/discovery) |
+| Data Browser | [databrowser.opendatahub.com](https://databrowser.opendatahub.com/) |
+| Content API Swagger UI | [tourism.api.opendatahub.com/swagger/index.html](https://tourism.api.opendatahub.com/swagger/index.html) |
+| Content API Docs Wiki | [github.com/noi-techpark/opendatahub-docs/wiki/Content-API](https://github.com/noi-techpark/opendatahub-docs/wiki/Content-API) |
+
 The data we work with is geographic track data from South Tyrol and the surrounding alpine region — cycling routes, hiking trails, and more. The goal is to understand:
 
 - How to **get the data** from an open API

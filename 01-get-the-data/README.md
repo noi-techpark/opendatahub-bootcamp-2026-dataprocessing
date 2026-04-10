@@ -4,13 +4,16 @@
 
 The [Open Data Hub](https://opendatahub.com) is a platform that aggregates and exposes open data from South Tyrol and the surrounding alpine region. In this challenge you will work with **SpatialData** — geographic track data (cycling routes, hiking trails, etc.) collected from various sources.
 
-The full API documentation is the **Content API wiki**:
-**[github.com/noi-techpark/opendatahub-docs/wiki/Content-API](https://github.com/noi-techpark/opendatahub-docs/wiki/Content-API)**
+### Useful links
 
-It explains all endpoints, filters, and the `Distinct` query used in Task 1 below.
+| Resource | URL |
+|---|---|
+| Open Data Hub Discovery | [discovery.opendatahub.com/discovery](https://discovery.opendatahub.com/discovery) |
+| Data Browser | [databrowser.opendatahub.com](https://databrowser.opendatahub.com/) |
+| Content API Swagger UI | [tourism.api.opendatahub.com/swagger/index.html](https://tourism.api.opendatahub.com/swagger/index.html) |
+| Content API Docs Wiki | [github.com/noi-techpark/opendatahub-docs/wiki/Content-API](https://github.com/noi-techpark/opendatahub-docs/wiki/Content-API) |
 
-The interactive Swagger UI is available at:
-**[tourism.api.opendatahub.com/swagger/index.html](https://tourism.api.opendatahub.com/swagger/index.html)** — look for the `SpatialData` and `Distinct` sections.
+The Docs Wiki explains all endpoints, filters, and the `Distinct` query used in Task 1 below. The Swagger UI lets you explore and call the API interactively — look for the `SpatialData` and `Distinct` sections.
 
 ---
 
